@@ -14,3 +14,7 @@ console.log("circle", circle); //number
 let name = "Carlo"; //string
 name = "Marco" //string
 console.log("name", name); //string
+
+name = prompt("Inserisci il tuo nome") 
+console.log("name", name);
+
